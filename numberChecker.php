@@ -20,7 +20,7 @@
       <h1>Number checker</h1>
         <div class="row">
             <div class="col-md-12">
-                <form method="post" >
+                <form method="post" action="">
                     <input class="input" type="number" name="num" placeholder="Enter a Number">
                     <button type="submit" class="btn btn-success">Check</button>
                     
